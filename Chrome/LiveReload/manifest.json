@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "LiveReload",
+  "name": "LiveReload Fire",
   "version": "2.0.9",
   "background": {
     "scripts": [
